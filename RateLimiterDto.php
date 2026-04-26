@@ -1,6 +1,6 @@
 <?php
 
-namespace Cleantalk\Common\RateLimit;
+namespace Cleantalk\Common\RateLimiter;
 
 use Cleantalk\Common\Templates\Dto;
 
@@ -9,7 +9,7 @@ use Cleantalk\Common\Templates\Dto;
  *
  * @package CleantalkSP\Common\RateLimit
  */
-class RateLimitDto extends Dto
+class RateLimiterDto extends Dto
 {
     /**
      * Current request counter for the UID

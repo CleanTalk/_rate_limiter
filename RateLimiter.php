@@ -1,6 +1,6 @@
 <?php
 
-namespace Cleantalk\Common\RateLimit;
+namespace Cleantalk\Common\RateLimiter;
 
 /**
  * Abstract base class for rate limiting functionality

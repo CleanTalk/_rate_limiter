@@ -1,5 +1,5 @@
 {
-    "name": "cleantalk/rate-limit",
+    "name": "cleantalk/rate-limiter",
     "description": "CleanTalk APBCT RateLimit classes",
     "authors": [
         {
@@ -10,7 +10,7 @@
     "license": "GPL-3.0-or-later",
     "autoload": {
         "psr-4": {
-            "Cleantalk\\Common\\RateLimit\\": "/"
+            "Cleantalk\\Common\\RateLimiter\\": "/"
         }
     },
     "require": {

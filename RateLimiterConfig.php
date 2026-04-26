@@ -1,6 +1,6 @@
 <?php
 
-namespace Cleantalk\Common\RateLimit;
+namespace Cleantalk\Common\RateLimiter;
 
 /**
  * Configuration class for rate limiter settings
